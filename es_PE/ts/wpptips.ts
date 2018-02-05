@@ -7,17 +7,17 @@
     <message id="ActionSetting.title">
         <source>Action Settings</source>
         <extracomment>ActionSetting.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de Acción</translation>
     </message>
     <message id="ActionSetting.content">
         <source>Add an action to the selected object to specify what should happen when you click on it or hover over it with your mouse.</source>
         <extracomment>ActionSetting.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agregue una acción al objeto seleccionado para especificar lo que debería suceder cuando hace clic en él o pasa el mouse sobre él con el mouse.</translation>
     </message>
     <message id="AddAssistant.title">
         <source>Add Assistant</source>
         <extracomment>AddAssistant.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Añadir Asistente</translation>
     </message>
     <message id="AddAssistant.content">
         <source>Add an assistant for the selected member.</source>
